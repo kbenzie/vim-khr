@@ -12,7 +12,7 @@ sections containing source code.
 *   [vim-plug](https://github.com/junegunn/vim-plug) `Plug 'kbenzie/vim-khr'`
 *   [Vundle](https://github.com/VundleVim/Vundle.vim) `Plugin 'kbenzie/vim-khr'`
 *   [NeoBundle](https://github.com/shougo/neobundle.vim) `NeoBundle
-    'kbenzie/vim-spirv'`
+    'kbenzie/vim-khr'`
 *   [vim-pathogen](https://github.com/tpope/vim-pathogen) `git clone
     https://github.com/kbenzie/vim-khr.git ~/.vim/bundle/vim-khr`
 
